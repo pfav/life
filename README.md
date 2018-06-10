@@ -6,6 +6,8 @@ Simple thing I like to play once in a while.
 
 ### instructions
 
+tested on Ubuntu Xenial 16.04.3 LTS
+
 ```bash
 # dev deps
 sudo apt-get install libncurses5 libncurses5-dev libncurses5-doc 
