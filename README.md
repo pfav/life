@@ -3,7 +3,7 @@
 ### Conway's Game of Life
 Simple thing I like to play once in a while. 
 
-### instructions
+### build instructions
 
 tested on Ubuntu Xenial 16.04.3 LTS
 
@@ -22,6 +22,7 @@ make install
 
 ```
 
+### screenshot
 ![Game of Life](img/life.png)
 
 ### gameplay
