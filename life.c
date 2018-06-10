@@ -30,13 +30,6 @@ void world_init(world_t* world, int width, int height, bool randInit){
   world->w = width;
   world->h = height;
   world->status |= INITIALIZED;
-
-  // glider
-  //(*world)[0][2] = alive;
-  //(*world)[1][2] = alive;
-  //(*world)[2][2] = alive;
-  //(*world)[2][1] = alive;
-  //(*world)[1][0] = alive;
 }
 
 
