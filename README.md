@@ -22,6 +22,8 @@ make install
 
 ```
 
+![Game of Life](img/life.png)
+
 ### gameplay
 
 * `c` clear world
