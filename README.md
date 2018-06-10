@@ -1,7 +1,6 @@
 # A Curse(ed) Life
 
-## Conway's Game of Life
-
+### Conway's Game of Life
 Simple thing I like to play once in a while. 
 
 ### instructions
