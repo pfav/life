@@ -30,7 +30,7 @@ make install
 * `p` pause
 * `k` increment delay
 * `j` decrement delay
-* `MOUSE CLICK` toogle life at position
+* `MOUSE CLICK` toggle life at position
 * `q` quit
 
 ### references
