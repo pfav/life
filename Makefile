@@ -3,6 +3,12 @@ CC = gcc
 CFLAGS = -std=c99 -Wall -Wextra -Werror -pedantic $(shell ncurses5-config --cflags)
 LDFLAGS = -L$(ROOTPROJ) $(shell ncurses5-config --libs)
 
+all: life
+
+.PHONY: install
+install:  life
+	sudo cp $< /usr/local/bin
+
 life : app.c app.h liblife.a
 	$(CC) $(CFLAGS) -o $@ $< $(LDFLAGS) -llife
 
