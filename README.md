@@ -1,4 +1,4 @@
-# A Curse(ed) Life
+# A Curse(d) Life
 
 ### Conway's Game of Life
 Simple thing I like to play once in a while. 
